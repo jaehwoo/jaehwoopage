@@ -7,8 +7,8 @@
 
 ## Example: Embedding a PDF file
 
-<object data="{{ pdf_file }}" type="application/pdf">
-    <embed src="{{ pdf_file }}" type="application/pdf" />
+<object data="CV-2.pdf" type="application/pdf">
+    <embed src="CV-2.pdf" type="application/pdf" />
 </object>
 
 ## Example: Creating a link to a PDF file
