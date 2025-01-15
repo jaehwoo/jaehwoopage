@@ -27,5 +27,4 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 plugins:
-  - search
-  - pdf-export
+  - mkdocs-pdf
