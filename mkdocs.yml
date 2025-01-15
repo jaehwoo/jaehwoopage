@@ -32,7 +32,5 @@ markdown_extensions:
       absolute: true # default: false
       tags: 'a script img link object embed'
 
-nav:
-  - Home: index.md
-  - HowTo:
-    - Embedding a PDF file: howto/embedding_pdf.md
+plugins:
+  - mkdocs-pdf
