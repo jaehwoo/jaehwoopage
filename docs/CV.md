@@ -1,9 +1,9 @@
 # CV
 
 <!--- file: docs/howto/embedding_pdf.md --->
-pdf_file = "CV-2.pdf"
-solid_filepdf = '<i class="fas fa-file-pdf"></i>'
-empty_filepdf = '<i class="far fa-file-pdf"></i>'
+<pdf_file = "CV-2.pdf">
+<solid_filepdf = '<i class="fas fa-file-pdf"></i>'>
+<empty_filepdf = '<i class="far fa-file-pdf"></i>'>
 
 ## Example: Embedding a PDF file
 
